@@ -1,0 +1,7 @@
+Entitys\Cliente.class
+Entitys\Pedido.class
+Entitys\ClienteCorreo.class
+com\mycompany\amazonjpa\AmazonJPA.class
+Entitys\Producto.class
+Entitys\ClienteTelefono.class
+Entitys\PedidoProducto.class
